@@ -17,7 +17,7 @@ h2 {
   font-size: 42;
   font-weight: 300;
 }
-#copyright {
+.footer {
   text-align: right;
   color: gray;
   }
